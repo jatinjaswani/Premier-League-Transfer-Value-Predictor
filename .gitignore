@@ -1,0 +1,21 @@
+# secrets
+.env
+
+# data and model artefacts (re-create with the CLI)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+models/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
