@@ -26,7 +26,7 @@ The numbers below are from earlier iterations of this project (see the ablation 
 ## Quick start
 
 ```bash
-git clone <this repo> && cd pl-value-predictor
+git clone <this repo> && cd Premier-League-Transfer-Value-Predictor
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 
