@@ -9,7 +9,34 @@ Built with Python, pandas and scikit-learn. Data comes from the football-data.or
 ## Results
 
 <!-- RESULTS:START -->
-Run `python -m plvalue train` and then `python -m plvalue readme` to fill this section.
+Trained on **503 Premier League players** (model: `linear`, 5-fold cross-validation; every player is scored by a model that never saw them).
+
+| Metric | Value |
+|---|---|
+| Cross-validated R² (log value) | 0.745 |
+| Mean absolute error | €7.9m |
+| Median absolute error | 30% |
+| 80% prediction interval | -46% to +76% of the point estimate |
+
+**Model comparison** (all features, cross-validated R²)
+
+| Model | R² |
+|---|---|
+| linear | 0.745 |
+| ridge | 0.748 |
+| gbm | 0.741 |
+
+**Ablation study** (drop one feature group, retrain, measure the change in R²)
+
+| Feature group removed | R² | Change |
+|---|---|---|
+| age | 0.615 | -0.130 |
+| league_stats | 0.747 | +0.001 |
+| club_strength | 0.711 | -0.034 |
+| season_activity | 0.618 | -0.127 |
+| contract_caps | 0.725 | -0.020 |
+| position | 0.750 | +0.004 |
+| world_cup | 0.746 | +0.000 |
 <!-- RESULTS:END -->
 
 All figures are **out-of-fold**: each player is predicted by a model that never saw them during training. The target is `log(1 + value)`, because values are heavily right-skewed.
@@ -22,7 +49,11 @@ The numbers below are from earlier iterations of this project (see the ablation 
 - **World Cup performance added nothing once the other features were in.** R² was 0.741 with and without the World Cup features. Earlier, a "was in a World Cup squad" flag looked useful, but only because it stood in for "good enough for a national team", which minutes and caps capture directly.
 - **Early overvaluation of veterans came from a too-gentle age curve.** A 32-year-old midfielder was predicted at €63m against an actual €35m. Hinge terms for age over 28 (and a goalkeeper-by-age interaction) fixed most of it.
 - **Where it still fails:** young high-potential players (valued on potential, which stats can't show) and the very top of the market (the linear model keeps extending the line past what Transfermarkt pays).
-
+- **Age and season activity drive the model.** Removing the age features costs 0.130 R² and removing season activity (minutes, starts, per-90 output) costs 0.127. No other feature group costs more than 0.034. The free API only exposes goals and assists, so minutes from the Transfermarkt data are what let the model tell a starter from a backup.
+- **World Cup performance added no measurable signal.** Dropping the World Cup features changes R² by 0.000. An earlier version looked like it benefited from a "selected for a World Cup squad" flag, but that flag was standing in for general quality, which minutes and caps capture directly. The valuations in this dataset also predate the tournament, so this project cannot show whether the tournament moved anyone's price.
+- **League goals/assists and position are redundant.** Dropping either changes R² by less than 0.005, because the minutes, per-90 and position-interaction features already carry that information.
+- **A simple model is enough.** Linear (0.745), ridge (0.748) and gradient boosting (0.741) are within noise of each other, so I kept the interpretable linear model.
+- **Prediction intervals are wide.** An 80% range runs from -46% to +76% of the point estimate, so treat predictions as rough estimates, not precise valuations.
 ## Quick start
 
 ```bash
