@@ -1,0 +1,504 @@
+name,team,position,age,actual_m,pred_m,pct_err,err_m
+Erling Haaland,Man City,Unknown,26.3,200.0,239.81,19.91,39.81
+Thiago,Brentford,Unknown,25.3,65.0,68.66,5.63,3.66
+Antoine Semenyo,Man City,Unknown,26.8,80.0,137.29,71.62,57.29
+Ollie Watkins,Aston Villa,Unknown,30.8,25.0,30.02,20.08,5.02
+João Pedro,Chelsea,Unknown,25.1,80.0,76.67,-4.16,-3.33
+Morgan Gibbs-White,Nottingham,Unknown,26.7,70.0,57.72,-17.54,-12.28
+Viktor Gyökeres,Arsenal,Unknown,28.4,65.0,125.5,93.08,60.5
+Dominic Calvert-Lewin,Leeds United,Unknown,29.6,22.0,23.18,5.36,1.18
+Danny Welbeck,Brighton Hove,Unknown,35.9,3.0,4.92,63.84,1.92
+Eli Kroupi,Bournemouth,Unknown,20.3,70.0,30.19,-56.88,-39.81
+Jean-Philippe Mateta,Crystal Palace,Unknown,29.3,30.0,25.25,-15.82,-4.75
+Hugo Ekitike,Liverpool,Unknown,24.3,80.0,59.51,-25.61,-20.49
+Richarlison,Tottenham,Unknown,29.5,25.0,24.34,-2.62,-0.66
+Bryan Mbeumo,Man United,Unknown,27.2,75.0,59.16,-21.12,-15.84
+Benjamin Šeško,Man United,Unknown,23.4,75.0,41.42,-44.78,-33.58
+Zian Flemming,Ipswich Town,Unknown,28.2,12.0,14.28,19.04,2.28
+Enzo Fernández,Man City,Unknown,25.8,90.0,137.59,52.88,47.59
+Cole Palmer,Chelsea,Unknown,24.5,100.0,52.33,-47.67,-47.67
+Harry Wilson,Fulham,Unknown,29.6,25.0,33.79,35.15,8.79
+Morgan Rogers,Chelsea,Unknown,24.2,90.0,90.06,0.06,0.06
+Matheus Cunha,Man United,Unknown,27.4,75.0,53.81,-28.25,-21.19
+Ismaïla Sarr,Crystal Palace,Unknown,28.7,40.0,43.6,9.01,3.6
+Bruno Guimarães,Arsenal,Unknown,28.9,70.0,71.57,2.25,1.57
+Bruno Fernandes,Man United,Unknown,32.1,35.0,17.91,-48.82,-17.09
+Beto,Everton,Unknown,28.7,18.0,19.46,8.14,1.46
+Jarrod Bowen,West Ham,Unknown,30.8,30.0,24.47,-18.45,-5.53
+Casemiro,Man United,Unknown,34.7,6.0,6.23,3.78,0.23
+Raúl Jiménez,Fulham,Unknown,35.5,3.0,7.83,161.14,4.83
+Jaidon Anthony,Brentford,Unknown,26.9,20.0,31.53,57.66,11.53
+Kiernan Dewsbury Hall,Everton,Unknown,28.1,35.0,31.02,-11.37,-3.98
+Nick Woltemade,Newcastle,Unknown,24.7,55.0,62.38,13.42,7.38
+Kevin Schade,Brentford,Unknown,24.9,35.0,32.79,-6.3,-2.21
+Noah Okafor,Leeds United,Unknown,26.4,25.0,36.86,47.45,11.86
+Thierno Barry,Everton,Unknown,26.8,30.0,24.5,-18.32,-5.5
+Cody Gakpo,Liverpool,Unknown,27.5,60.0,62.32,3.87,2.32
+Mohamed Salah,Liverpool,Unknown,34.4,22.0,12.72,-42.17,-9.28
+Marcus Tavernier,Bournemouth,Unknown,27.6,25.0,33.46,33.86,8.46
+Dango Ouattara,Brentford,Unknown,24.7,35.0,49.86,42.46,14.86
+Bukayo Saka,Arsenal,Unknown,25.1,110.0,129.18,17.44,19.18
+William Osula,Newcastle,Unknown,23.2,28.0,26.14,-6.63,-1.86
+Callum Wilson,West Ham,Unknown,34.7,4.0,2.67,-33.13,-1.33
+Phil Foden,Man City,Unknown,26.4,70.0,54.22,-22.55,-15.78
+Eberechi Eze,Arsenal,Unknown,28.3,65.0,65.24,0.37,0.24
+Brian Brobbey,Sunderland,Unknown,24.7,30.0,24.67,-17.77,-5.33
+Harvey Barnes,Newcastle,Unknown,28.9,32.0,24.55,-23.29,-7.45
+Wilson Isidor,Sunderland,Unknown,26.2,18.0,17.23,-4.3,-0.77
+Lukas Nmecha,Leeds United,Unknown,27.9,10.0,18.45,84.49,8.45
+Iliman Ndiaye,Everton,Unknown,26.6,55.0,51.7,-6.01,-3.3
+Evanilson,Bournemouth,Unknown,27.0,35.0,26.51,-24.26,-8.49
+Dominik Szoboszlai,Liverpool,Unknown,26.0,100.0,65.44,-34.56,-34.56
+Emiliano Buendía,Aston Villa,Unknown,29.8,16.0,14.05,-12.21,-1.95
+Leandro Trossard,Arsenal,Unknown,31.9,18.0,29.04,61.31,11.04
+Anthony Gordon,Newcastle,Unknown,25.7,65.0,64.19,-1.24,-0.81
+Igor Jesus,Nottingham,Unknown,25.7,25.0,42.21,68.84,17.21
+Florian Wirtz,Liverpool,Unknown,23.5,100.0,70.6,-29.4,-29.4
+Virgil van Dijk,Liverpool,Unknown,35.3,15.0,8.67,-42.18,-6.33
+Valentín Castellanos,West Ham,Unknown,28.1,28.0,30.83,10.12,2.83
+Tijjani Reijnders,Man City,Unknown,28.2,50.0,69.33,38.66,19.33
+Pedro Neto,Chelsea,Unknown,26.6,60.0,80.02,33.37,20.02
+João Palhinha,Tottenham,Unknown,31.3,15.0,10.77,-28.22,-4.23
+Ryan Gravenberch,Liverpool,Unknown,24.4,80.0,78.16,-2.3,-1.84
+Enzo Le Fée,Sunderland,Unknown,26.7,28.0,30.29,8.19,2.29
+Martín Zubimendi,Arsenal,Unknown,27.7,75.0,82.72,10.3,7.72
+Anton Stach,Leeds United,Unknown,27.9,28.0,27.93,-0.24,-0.07
+John McGinn,Aston Villa,Unknown,32.0,13.0,20.22,55.54,7.22
+Diego Gómez,Brighton Hove,Unknown,23.6,25.0,40.76,63.05,15.76
+Tomáš Souček,West Ham,Unknown,31.7,10.0,10.67,6.75,0.67
+Nico O'Reilly,Man City,Unknown,21.6,70.0,86.12,23.03,16.12
+Jeremy Doku,Man City,Unknown,24.4,75.0,88.07,17.43,13.07
+Crysencio Summerville,West Ham,Unknown,25.0,35.0,37.77,7.9,2.77
+Rayan,Bournemouth,Unknown,20.2,60.0,37.74,-37.1,-22.26
+Rayan Cherki,Man City,Unknown,23.2,90.0,88.4,-1.77,-1.6
+Lucas Paquetá,West Ham,Unknown,29.2,32.0,27.62,-13.7,-4.38
+Mickey van de Ven,Tottenham,Unknown,25.5,50.0,44.22,-11.55,-5.78
+Jan Paul van Hecke,Tottenham,Unknown,26.4,45.0,26.1,-42.0,-18.9
+Mikkel Damsgaard,Brentford,Unknown,26.3,30.0,35.49,18.29,5.49
+Alex Iwobi,Fulham,Unknown,30.5,20.0,19.01,-4.97,-0.99
+Mikel Merino,Arsenal,Unknown,30.3,25.0,28.63,14.52,3.63
+Mathys Tel,Tottenham,Unknown,21.5,22.0,28.3,28.66,6.3
+Declan Rice,Arsenal,Unknown,27.8,120.0,97.99,-18.34,-22.01
+Donyell Malen,Aston Villa,Unknown,27.8,45.0,63.72,41.6,18.72
+Daniel Muñoz,Crystal Palace,Unknown,30.4,22.0,18.13,-17.59,-3.87
+Brenden Aaronson,Leeds United,Unknown,26.0,22.0,36.23,64.7,14.23
+Chemsdine Talbi,Sunderland,Unknown,21.5,25.0,26.09,4.37,1.09
+Jørgen Strand Larsen,Crystal Palace,Unknown,26.7,40.0,36.18,-9.54,-3.82
+Elliot Anderson,Nottingham,Unknown,24.0,75.0,37.56,-49.91,-37.44
+Jack Hinshelwood,Brighton Hove,Unknown,21.5,28.0,30.54,9.09,2.54
+Malick Thiaw,Newcastle,Unknown,25.2,45.0,42.52,-5.51,-2.48
+Christian Romero,Tottenham,Unknown,28.5,45.0,34.71,-22.86,-10.29
+Patrick Dorgu,Man United,Unknown,22.0,35.0,31.72,-9.38,-3.28
+Taiwo Awoniyi,Nottingham,Unknown,29.2,8.0,11.45,43.1,3.45
+Chris Wood,Nottingham,Unknown,34.9,5.0,4.8,-3.92,-0.2
+Moisés Caicedo,Chelsea,Unknown,25.0,100.0,70.28,-29.72,-29.72
+Trevoh Chalobah,Chelsea,Unknown,27.3,40.0,31.32,-21.71,-8.68
+Jurrien Timber,Arsenal,Unknown,25.4,70.0,63.84,-8.81,-6.16
+Callum Hudson-Odoi,Nottingham,Unknown,26.0,30.0,28.81,-3.98,-1.19
+Emile Smith Rowe,Fulham,Unknown,26.2,20.0,19.2,-4.01,-0.8
+Lyle Foster,Burnley,Unknown,26.1,8.0,16.01,100.12,8.01
+Rodrigo Gomes,Wolverhampton,Unknown,23.3,15.0,11.94,-20.42,-3.06
+Marc Guéhi,Man City,Unknown,26.3,70.0,95.39,36.27,25.39
+Alexander Isak,Liverpool,Unknown,27.1,85.0,32.85,-61.36,-52.15
+Pascal Groß,Brighton Hove,Unknown,35.4,2.5,3.73,49.23,1.23
+Charalampos Kostoulas,Brighton Hove,Unknown,19.4,25.0,14.4,-42.38,-10.6
+Kai Havertz,Arsenal,Unknown,27.4,55.0,43.96,-20.08,-11.04
+Martin Ødegaard,Arsenal,Unknown,27.9,65.0,50.0,-23.08,-15.0
+Emersonn,Ipswich Town,Unknown,22.3,8.0,17.98,124.74,9.98
+Keane Lewis-Potter,Brentford,Unknown,25.7,25.0,34.15,36.6,9.15
+Vitaly Janelt,Brentford,Unknown,28.5,16.0,19.87,24.16,3.87
+Maxim De Cuyper,Brighton Hove,Unknown,25.8,22.0,26.83,21.96,4.83
+Anthony Elanga,Newcastle,Unknown,24.5,32.0,32.55,1.71,0.55
+Joe Willock,Newcastle,Unknown,27.2,14.0,14.53,3.79,0.53
+Dan Ndoye,Nottingham,Unknown,26.0,32.0,31.21,-2.47,-0.79
+Víctor Muñoz,Liverpool,Unknown,23.3,30.0,24.53,-18.23,-5.47
+Malick Yalcouyé,Brighton Hove,Unknown,20.9,12.0,11.09,-7.54,-0.91
+Jayden Bogle,Leeds United,Unknown,26.2,15.0,23.39,55.95,8.39
+Tyrick Mitchell,Crystal Palace,Unknown,27.1,25.0,25.31,1.23,0.31
+Yasin Ayari,Brighton Hove,Unknown,23.0,35.0,27.23,-22.2,-7.77
+Johan Manzambi,Aston Villa,Unknown,21.0,50.0,56.79,13.59,6.79
+Nicolas Jackson,Aston Villa,Unknown,25.3,40.0,45.03,12.58,5.03
+Jordan Henderson,Chelsea,Unknown,36.4,1.2,2.89,140.51,1.69
+Semi Ajayi,Hull City,Unknown,33.0,0.7,0.34,-51.28,-0.36
+Nobel Mendy,Hull City,Unknown,22.2,7.5,13.05,74.03,5.55
+Nilson Angulo,Sunderland,Unknown,23.3,17.0,42.58,150.49,25.58
+Michael Kayode,Brentford,Unknown,22.3,40.0,45.09,12.73,5.09
+Joško Gvardiol,Man City,Unknown,24.8,70.0,45.0,-35.71,-25.0
+Gonzalo García,Fulham,Unknown,22.6,30.0,29.2,-2.67,-0.8
+Alex Scott,Bournemouth,Unknown,23.2,50.0,21.26,-57.48,-28.74
+James Tarkowski,Everton,Unknown,33.9,5.0,6.29,25.78,1.29
+Liam Millar,Hull City,Unknown,27.1,1.7,7.6,346.79,5.9
+Yoane Wissa,Newcastle,Unknown,30.1,25.0,13.36,-46.56,-11.64
+Romeo Lavia,Chelsea,Unknown,22.8,22.0,15.19,-30.95,-6.81
+Jacob Ramsey,Newcastle,Unknown,25.4,35.0,26.59,-24.02,-8.41
+Luka Vušković,Brighton Hove,Unknown,19.7,60.0,34.79,-42.02,-25.21
+César Palacios,Fulham,Unknown,21.9,7.5,8.75,16.64,1.25
+Ben Chilwell,Crystal Palace,Unknown,29.8,10.0,10.58,5.77,0.58
+Tyrique George,Everton,Unknown,20.7,20.0,17.6,-11.99,-2.4
+Ainsley Maitland-Niles,Everton,Unknown,29.2,10.0,18.81,88.06,8.81
+Anan Khalaili,Crystal Palace,Unknown,22.1,23.0,37.44,62.77,14.44
+Liam Delap,Nottingham,Unknown,23.7,28.0,27.45,-1.96,-0.55
+Alysson,Aston Villa,Unknown,20.5,10.0,9.93,-0.71,-0.07
+Justin Kluivert,Bournemouth,Unknown,27.5,25.0,15.39,-38.45,-9.61
+Lewis Dunk,Brighton Hove,Unknown,34.9,3.5,2.95,-15.76,-0.55
+Bazoumana Touré,Newcastle,Unknown,20.6,40.0,26.09,-34.78,-13.91
+Fabio Carvalho,Brentford,Unknown,24.2,8.0,14.02,75.29,6.02
+Conor Gallagher,Tottenham,Unknown,26.7,32.0,27.69,-13.46,-4.31
+Chema Andrés,Brighton Hove,Unknown,21.5,20.0,24.28,21.38,4.28
+Lewis Hall,Newcastle,Unknown,22.1,40.0,30.22,-24.45,-9.78
+Mohamed Cho,Hull City,Unknown,22.8,15.0,16.88,12.51,1.88
+Jay Dasilva,Coventry City,Unknown,28.5,9.0,3.21,-64.34,-5.79
+James Justin,Leeds United,Unknown,28.7,12.0,17.15,42.92,5.15
+Riccardo Calafiori,Arsenal,Unknown,24.4,55.0,36.55,-33.55,-18.45
+Jaouen Hadjam,Brighton Hove,Unknown,23.6,7.0,16.21,131.55,9.21
+Ryan Sessegnon,Fulham,Unknown,26.4,22.0,21.29,-3.22,-0.71
+Abdoul Ouattara,Ipswich Town,Unknown,21.0,15.0,10.43,-30.48,-4.57
+Dara O'Shea,Ipswich Town,Unknown,27.6,16.0,6.16,-61.51,-9.84
+Yegor Yarmolyuk,Brentford,Unknown,22.6,32.0,31.4,-1.89,-0.6
+Kepa Arrizabalaga,Arsenal,Goalkeeper,32.1,5.0,6.23,24.58,1.23
+David Raya,Arsenal,Goalkeeper,31.1,30.0,25.85,-13.82,-4.15
+Illan Meslier,Arsenal,Goalkeeper,26.6,8.0,3.79,-52.63,-4.21
+Ben White,Arsenal,Defence,29.0,30.0,22.19,-26.03,-7.81
+Ezri Konsa,Arsenal,Defence,29.0,40.0,50.99,27.48,10.99
+Gabriel Magalhães,Arsenal,Defence,28.8,75.0,60.86,-18.85,-14.14
+William Saliba,Arsenal,Defence,25.6,100.0,79.66,-20.34,-20.34
+Piero Hincapié,Arsenal,Defence,24.8,50.0,59.8,19.61,9.8
+Cristhian Mosquera,Arsenal,Defence,22.3,40.0,30.63,-23.43,-9.37
+Myles Lewis-Skelly,Arsenal,Midfield,20.1,45.0,36.68,-18.49,-8.32
+Christos Tzolis,Arsenal,Offence,24.7,40.0,130.91,227.27,90.91
+Noni Madueke,Arsenal,Offence,24.6,50.0,57.74,15.49,7.74
+Max Dowman,Arsenal,Offence,16.8,30.0,16.92,-43.61,-13.08
+Marco Bizot,Aston Villa,Goalkeeper,35.6,1.5,1.49,-0.55,-0.01
+Zion Suzuki,Aston Villa,Goalkeeper,24.2,20.0,14.49,-27.54,-5.51
+James Wright,Aston Villa,Goalkeeper,21.9,0.2,1.52,659.0,1.32
+Victor Nilsson-Lindelöf,Aston Villa,Defence,32.3,5.0,6.93,38.61,1.93
+Aaron Wan-Bissaka,Aston Villa,Defence,28.9,15.0,25.56,70.4,10.56
+Tyrone Mings,Aston Villa,Defence,33.6,3.0,3.04,1.43,0.04
+Matty Cash,Aston Villa,Defence,29.2,22.0,22.92,4.2,0.92
+Pau Torres,Aston Villa,Defence,29.8,20.0,14.72,-26.38,-5.28
+Ian Maatsen,Aston Villa,Defence,24.6,30.0,19.3,-35.66,-10.7
+Matteo Ruggeri,Aston Villa,Defence,24.3,28.0,27.68,-1.15,-0.32
+Modou Keba Cisse,Aston Villa,Defence,21.2,6.0,5.42,-9.64,-0.58
+Leon Goretzka,Aston Villa,Midfield,31.7,12.0,9.88,-17.66,-2.12
+Ross Barkley,Aston Villa,Midfield,32.9,4.0,4.21,5.16,0.21
+Boubacar Kamara,Aston Villa,Midfield,26.9,40.0,20.84,-47.91,-19.16
+Amadou Onana,Aston Villa,Midfield,25.2,45.0,34.35,-23.67,-10.65
+João Gomes,Aston Villa,Midfield,25.7,40.0,30.59,-23.52,-9.41
+Lamare Bogarde,Aston Villa,Midfield,22.8,18.0,16.64,-7.58,-1.36
+Tammy Abraham,Aston Villa,Offence,29.1,18.0,22.67,25.96,4.67
+Alejandro Garnacho,Aston Villa,Offence,22.3,28.0,33.09,18.2,5.09
+Ibrahim M'Baye,Aston Villa,Offence,18.7,30.0,18.12,-39.59,-11.88
+Brian Madjo,Aston Villa,Offence,17.8,12.0,12.13,1.12,0.13
+Emiliano Martínez,Chelsea,Goalkeeper,34.1,12.0,12.19,1.62,0.19
+Gabriel Slonina,Chelsea,Goalkeeper,22.4,3.0,2.51,-16.42,-0.49
+Teddy Sharman-Lowe,Chelsea,Goalkeeper,23.8,0.5,3.79,658.41,3.29
+Mike Penders,Chelsea,Goalkeeper,21.2,25.0,25.67,2.69,0.67
+Wesley Fofana,Chelsea,Defence,25.9,28.0,21.07,-24.74,-6.93
+Reece James,Chelsea,Defence,26.9,60.0,44.24,-26.27,-15.76
+Maxence Lacroix,Chelsea,Defence,26.5,50.0,35.75,-28.5,-14.25
+Pep Chavarría,Chelsea,Defence,28.5,10.0,21.46,114.56,11.46
+Malo Gusto,Chelsea,Defence,23.4,35.0,38.71,10.6,3.71
+Levi Colwill,Chelsea,Defence,23.7,50.0,11.35,-77.3,-38.65
+Jorrel Hato,Chelsea,Defence,20.6,40.0,30.63,-23.42,-9.37
+Marco Palestra,Chelsea,Defence,21.6,35.0,36.17,3.33,1.17
+Aaron Anselmino,Chelsea,Defence,21.5,10.0,14.5,45.02,4.5
+Josh Acheampong,Chelsea,Defence,20.5,25.0,17.39,-30.46,-7.61
+Valentin Barco,Chelsea,Midfield,22.3,40.0,30.34,-24.16,-9.66
+Emanuel Emegha,Chelsea,Offence,23.7,25.0,26.2,4.81,1.2
+Jamie Bynoe-Gittens,Chelsea,Offence,22.2,30.0,26.12,-12.94,-3.88
+Geovany Quenda,Chelsea,Offence,19.5,42.0,30.73,-26.82,-11.27
+Estevao,Chelsea,Offence,19.5,80.0,32.74,-59.07,-47.26
+Jordan Pickford,Everton,Goalkeeper,32.6,13.0,12.78,-1.72,-0.22
+Thomas King,Everton,Goalkeeper,31.6,0.1,0.42,317.82,0.32
+Mark Travers,Everton,Goalkeeper,27.4,3.0,6.13,104.5,3.13
+Michael Keane,Everton,Defence,33.8,3.0,4.41,46.94,1.41
+Vitalii Mykolenko,Everton,Defence,27.4,25.0,30.06,20.24,5.06
+Jarrad Branthwaite,Everton,Defence,24.3,40.0,14.94,-62.66,-25.06
+Jake O'Brien,Everton,Defence,25.4,18.0,28.43,57.94,10.43
+Christian Nørgaard,Everton,Midfield,32.6,5.0,4.67,-6.56,-0.33
+James Garner,Everton,Midfield,25.6,45.0,38.73,-13.94,-6.27
+Carlos Alcaraz,Everton,Midfield,23.9,15.0,10.92,-27.2,-4.08
+Merlin Röhl,Everton,Midfield,24.3,16.0,15.93,-0.45,-0.07
+Harrison Armstrong,Everton,Midfield,19.8,12.0,15.66,30.52,3.66
+Jack Grealish,Everton,Offence,31.1,20.0,9.23,-53.86,-10.77
+Brennan Johnson,Everton,Offence,25.4,30.0,25.76,-14.12,-4.24
+Tyler Dibling,Everton,Offence,20.7,17.0,11.01,-35.22,-5.99
+Bernd Leno,Fulham,Goalkeeper,34.6,6.0,4.5,-25.02,-1.5
+Benjamin Lecomte,Fulham,Goalkeeper,35.5,0.8,0.89,10.88,0.09
+Timothy Castagne,Fulham,Defence,30.9,8.0,10.08,26.02,2.08
+Joachim Andersen,Fulham,Defence,30.4,20.0,13.88,-30.6,-6.12
+Antonee Robinson,Fulham,Defence,29.2,22.0,15.04,-31.62,-6.96
+Kenny Tete,Fulham,Defence,31.0,8.0,7.2,-10.04,-0.8
+Jorge Cuenca,Fulham,Defence,26.9,8.0,12.42,55.19,4.42
+David Affengruber,Fulham,Defence,25.6,20.0,18.65,-6.76,-1.35
+Calvin Bassey,Fulham,Defence,26.8,28.0,23.14,-17.35,-4.86
+Tom Cairney,Fulham,Midfield,35.8,0.5,1.25,149.49,0.75
+Harrison Reed,Fulham,Midfield,31.7,2.0,4.83,141.75,2.83
+Sander Berge,Fulham,Midfield,28.7,25.0,31.32,25.28,6.32
+Hugo Larsson,Fulham,Midfield,22.3,28.0,30.24,7.98,2.24
+Shea Charles,Fulham,Midfield,23.0,15.0,11.98,-20.16,-3.02
+Manuel Angel,Fulham,Midfield,22.6,5.0,9.01,80.2,4.01
+Rodrigo Muniz,Fulham,Offence,25.5,20.0,12.56,-37.18,-7.44
+Kevin Santos,Fulham,Offence,23.8,25.0,24.64,-1.45,-0.36
+Oscar Bobb,Fulham,Offence,23.3,28.0,26.67,-4.75,-1.33
+Jonah Kusi-Asare,Fulham,Offence,19.3,3.0,11.83,294.39,8.83
+Alisson Becker,Liverpool,Goalkeeper,34.1,15.0,7.82,-47.89,-7.18
+Freddie Woodman,Liverpool,Goalkeeper,29.6,3.0,3.18,5.97,0.18
+Giorgi Mamardashvili,Liverpool,Goalkeeper,26.1,28.0,12.48,-55.43,-15.52
+Vítězslav Jaroš,Liverpool,Goalkeeper,25.3,5.0,10.0,100.01,5.0
+Harvey Davies,Liverpool,Goalkeeper,23.1,0.5,4.92,884.86,4.42
+Kostas Tsimikas,Liverpool,Defence,30.5,4.5,7.04,56.49,2.54
+Joe Gomez,Liverpool,Defence,29.4,13.0,9.27,-28.68,-3.73
+Ronald Araújo,Liverpool,Defence,27.6,20.0,25.97,29.86,5.97
+Jeremie Frimpong,Liverpool,Defence,25.9,35.0,22.79,-34.88,-12.21
+Milos Kerkez,Liverpool,Defence,23.0,35.0,35.56,1.6,0.56
+Conor Bradley,Liverpool,Defence,23.3,25.0,16.43,-34.28,-8.57
+Giovanni Leoni,Liverpool,Defence,19.8,25.0,12.17,-51.34,-12.83
+Jeremy Jacquet,Liverpool,Defence,21.3,55.0,21.05,-61.73,-33.95
+Wataru Endō,Liverpool,Midfield,33.7,4.0,2.44,-38.99,-1.56
+Alexis Mac Allister,Liverpool,Midfield,27.8,70.0,45.39,-35.15,-24.61
+James McConnell,Liverpool,Midfield,22.1,2.0,12.67,533.6,10.67
+Trey Nyoni,Liverpool,Midfield,19.3,8.0,11.82,47.74,3.82
+Federico Chiesa,Liverpool,Offence,29.0,13.0,12.57,-3.28,-0.43
+Bradley Barcola,Liverpool,Offence,24.1,70.0,45.04,-35.66,-24.96
+Lewis Koumas,Liverpool,Offence,21.1,4.0,10.04,150.95,6.04
+Rio Ngumoha,Liverpool,Offence,18.2,30.0,13.91,-53.63,-16.09
+Géronimo Rulli,Man City,Goalkeeper,34.4,6.0,10.29,71.52,4.29
+Gianluigi Donnarumma,Man City,Goalkeeper,27.7,45.0,32.41,-27.98,-12.59
+Marcus Bettinelli,Man City,Goalkeeper,34.4,0.3,0.42,40.7,0.12
+Rayan Aït Nouri,Man City,Defence,25.4,40.0,46.86,17.15,6.86
+Rúben Dias,Man City,Defence,29.4,55.0,37.05,-32.64,-17.95
+Matheus Nunes,Man City,Defence,28.2,50.0,50.86,1.72,0.86
+Rico Lewis,Man City,Defence,21.9,28.0,34.04,21.56,6.04
+Abdukodir Khusanov,Man City,Defence,22.7,50.0,45.76,-8.47,-4.24
+Vitor Reis,Man City,Defence,20.8,30.0,34.54,15.15,4.54
+Mateo Kovačić,Man City,Midfield,32.5,10.0,6.71,-32.86,-3.29
+Ayyoub Bouaddi,Man City,Midfield,19.1,50.0,56.33,12.66,6.33
+Allan,Man City,Offence,22.5,20.0,11.02,-44.92,-8.98
+Karl Darlow,Man United,Goalkeeper,36.0,0.2,3.75,1774.62,3.55
+Tom Heaton,Man United,Goalkeeper,40.5,0.1,-0.57,-672.12,-0.67
+Senne Lammens,Man United,Goalkeeper,24.3,35.0,22.8,-34.86,-12.2
+Harry Maguire,Man United,Defence,33.6,8.0,4.45,-44.33,-3.55
+Matthijs de Ligt,Man United,Defence,27.2,30.0,21.21,-29.31,-8.79
+Noussair Mazraoui,Man United,Defence,28.9,18.0,18.2,1.09,0.2
+Luke Shaw,Man United,Defence,31.3,8.0,11.96,49.55,3.96
+Diogo Dalot,Man United,Defence,27.6,30.0,31.23,4.11,1.23
+Lisandro Martínez,Man United,Defence,28.8,40.0,14.86,-62.84,-25.14
+Leny Yoro,Man United,Defence,20.9,50.0,21.86,-56.29,-28.14
+Ayden Heaven,Man United,Defence,20.1,30.0,16.44,-45.21,-13.56
+Youri Tielemans,Man United,Midfield,29.5,30.0,28.39,-5.38,-1.61
+Mason Mount,Man United,Midfield,27.8,25.0,22.3,-10.79,-2.7
+Manuel Ugarte,Man United,Midfield,25.5,25.0,24.44,-2.24,-0.56
+Andrey Santos,Man United,Midfield,22.5,40.0,29.59,-26.03,-10.41
+Carlos Baleba,Man United,Midfield,22.8,55.0,21.85,-60.27,-33.15
+Kobbie Mainoo,Man United,Midfield,21.5,70.0,36.48,-47.89,-33.52
+Marcus Rashford,Man United,Offence,29.0,40.0,40.75,1.88,0.75
+Joshua Zirkzee,Man United,Offence,25.4,20.0,13.36,-33.19,-6.64
+Amad Diallo,Man United,Offence,24.3,45.0,45.06,0.14,0.06
+Nick Pope,Newcastle,Goalkeeper,34.5,5.0,4.78,-4.44,-0.22
+Mark Gillespie,Newcastle,Goalkeeper,34.6,0.1,-0.02,-121.59,-0.12
+Lukáš Horníček,Newcastle,Goalkeeper,24.3,18.0,24.73,37.38,6.73
+Fabian Schär,Newcastle,Defence,34.8,4.0,2.26,-43.43,-1.74
+Dan Burn,Newcastle,Defence,34.5,4.0,4.47,11.8,0.47
+Sven Botman,Newcastle,Defence,26.8,35.0,21.47,-38.66,-13.53
+Amar Dedić,Newcastle,Defence,24.2,16.0,41.18,157.37,25.18
+Valentino Livramento,Newcastle,Defence,23.9,45.0,16.25,-63.89,-28.75
+Joelinton,Newcastle,Midfield,30.2,25.0,11.72,-53.12,-13.28
+Nico Gonzalez,Newcastle,Midfield,24.8,40.0,24.09,-39.78,-15.91
+Lewis Miley,Newcastle,Midfield,20.5,25.0,31.4,25.6,6.4
+Sean Steur,Newcastle,Midfield,18.8,7.0,27.18,288.25,20.18
+Aladji Bamba,Newcastle,Midfield,20.3,18.0,15.97,-11.27,-2.03
+Jacob Murphy,Newcastle,Offence,31.7,12.0,7.33,-38.94,-4.67
+Matias Fernandez-Pardo,Newcastle,Offence,21.7,35.0,36.09,3.12,1.09
+Simon Moore,Sunderland,Goalkeeper,36.4,0.08,-0.34,-555.6,-0.42
+Robin Roefs,Sunderland,Goalkeeper,23.8,28.0,15.75,-43.74,-12.25
+Melker Ellborg,Sunderland,Goalkeeper,23.4,3.0,7.05,135.14,4.05
+Thomas Meunier,Sunderland,Defence,35.1,1.5,2.3,53.08,0.8
+Luke O'Nien,Sunderland,Defence,31.9,0.7,2.27,224.51,1.57
+Kevin Danso,Sunderland,Defence,28.1,20.0,19.67,-1.66,-0.33
+Nordi Mukiele,Sunderland,Defence,29.0,16.0,14.59,-8.81,-1.41
+Reinildo,Sunderland,Defence,32.8,4.0,3.86,-3.49,-0.14
+Omar Alderete,Sunderland,Defence,29.8,13.0,16.37,25.95,3.37
+Trai Hume,Sunderland,Defence,24.6,22.0,23.69,7.7,1.69
+Daniel Ballard,Sunderland,Defence,27.1,20.0,18.2,-9.02,-1.8
+Dayann Methalie,Sunderland,Defence,20.7,18.0,16.24,-9.79,-1.76
+Granit Xhaka,Sunderland,Midfield,34.1,8.0,6.87,-14.14,-1.13
+Habib Diarra,Sunderland,Midfield,22.8,35.0,23.81,-31.96,-11.19
+Noah Sadiki,Sunderland,Midfield,21.9,35.0,31.55,-9.84,-3.45
+Chris Rigg,Sunderland,Midfield,19.4,25.0,16.48,-34.06,-8.52
+Jules Ahoka,Sunderland,Midfield,20.9,0.3,9.3,2999.73,9.0
+Abdoullah Ba,Sunderland,Offence,23.2,1.5,3.72,147.81,2.22
+Romaine Mundle,Sunderland,Offence,23.5,7.0,6.47,-7.5,-0.53
+Malick Fofana,Sunderland,Offence,21.6,30.0,12.39,-58.69,-17.61
+Jocelin Bi,Sunderland,Offence,21.7,2.5,6.58,163.34,4.08
+Martin Dúbravka,Tottenham,Goalkeeper,37.8,0.5,2.37,373.89,1.87
+Brandon Austin,Tottenham,Goalkeeper,27.8,0.5,3.04,507.33,2.54
+Antonín Kinský,Tottenham,Goalkeeper,23.6,15.0,7.99,-46.73,-7.01
+Andrew Robertson,Tottenham,Defence,32.6,7.0,10.21,45.91,3.21
+Tosin Adarabioyo,Tottenham,Defence,29.1,16.0,9.94,-37.89,-6.06
+Ben Davies,Tottenham,Defence,33.5,3.0,2.02,-32.71,-0.98
+Marcos Senesi,Tottenham,Defence,29.5,25.0,21.07,-15.74,-3.93
+Pedro Porro,Tottenham,Defence,27.1,35.0,44.93,28.37,9.93
+Destiny Udogie,Tottenham,Defence,23.9,30.0,17.0,-43.32,-13.0
+Archie Gray,Tottenham,Defence,20.6,35.0,24.91,-28.83,-10.09
+Dejan Kulusevski,Tottenham,Midfield,26.5,17.0,8.22,-51.65,-8.78
+Rodrigo Bentancur,Tottenham,Midfield,29.3,20.0,25.93,29.63,5.93
+Sandro Tonali,Tottenham,Midfield,26.5,80.0,61.05,-23.69,-18.95
+James Maddison,Tottenham,Midfield,29.9,20.0,4.24,-78.81,-15.76
+Xavi Simons,Tottenham,Midfield,23.5,40.0,40.19,0.47,0.19
+Mateus Fernandes,Tottenham,Midfield,22.3,50.0,44.58,-10.85,-5.42
+Lucas Bergvall,Tottenham,Midfield,20.7,35.0,29.74,-15.04,-5.26
+Dominic Solanke,Tottenham,Offence,29.1,28.0,16.36,-41.56,-11.64
+Omar Marmoush,Tottenham,Offence,27.7,50.0,32.28,-35.44,-17.72
+Mohammed Kudus,Tottenham,Offence,26.2,50.0,30.1,-39.81,-19.9
+Mykhailo Mudryk,Tottenham,Offence,25.8,18.0,6.2,-65.55,-11.8
+Sávio,Tottenham,Offence,22.5,35.0,25.94,-25.89,-9.06
+Wilson Odobert,Tottenham,Offence,21.9,18.0,23.42,30.12,5.42
+Jack Butland,Hull City,Goalkeeper,33.6,1.5,5.43,262.02,3.93
+Konstantinos Tzolakis,Hull City,Goalkeeper,24.0,18.0,9.52,-47.14,-8.48
+Matt Targett,Hull City,Defence,31.1,3.0,1.13,-62.42,-1.87
+Paddy McNair,Hull City,Defence,31.5,1.5,2.22,48.24,0.72
+John Egan,Hull City,Defence,34.0,1.0,0.57,-42.91,-0.43
+Brooke Norton-Cuffy,Hull City,Defence,22.8,15.0,15.02,0.11,0.02
+Lucas Herrington,Hull City,Defence,19.1,4.5,7.85,74.54,3.35
+Kieran Dowell,Hull City,Midfield,29.0,1.5,5.15,243.24,3.65
+Hidemasa Morita,Hull City,Midfield,31.5,8.0,5.55,-30.69,-2.45
+Tim Iroegbunam,Hull City,Midfield,24.2,18.0,10.14,-43.68,-7.86
+Lucas Gourna-Douath,Hull City,Midfield,23.2,6.0,9.34,55.7,3.34
+Jens Hjertö-Dahl,Hull City,Midfield,21.0,10.0,3.38,-66.18,-6.62
+Christos Mouzakitis,Hull City,Midfield,19.8,25.0,14.73,-41.06,-10.27
+Sorba Thomas,Hull City,Offence,27.2,14.0,5.06,-63.86,-8.94
+Abdülkadir Ömür,Hull City,Offence,27.3,1.5,9.85,556.69,8.35
+Elliot Stroud,Hull City,Offence,24.3,5.0,4.46,-10.85,-0.54
+Ilyas Ansah,Hull City,Offence,22.0,12.0,12.64,5.35,0.64
+Robinio Vaz,Hull City,Offence,19.7,18.0,10.65,-40.86,-7.35
+Alex Cairns,Leeds United,Goalkeeper,33.8,0.05,0.06,14.58,0.01
+Michael Zetterer,Leeds United,Goalkeeper,31.3,4.0,6.52,63.05,2.52
+James Trafford,Leeds United,Goalkeeper,24.0,25.0,10.43,-58.27,-14.57
+Nico Elvedi,Leeds United,Defence,30.1,8.0,18.77,134.62,10.77
+Joe Rodon,Leeds United,Defence,29.0,18.0,20.18,12.12,2.18
+Gabriel Gudmundsson,Leeds United,Defence,27.5,20.0,29.68,48.4,9.68
+Jaka Bijol,Leeds United,Defence,27.7,20.0,27.43,37.13,7.43
+Melvin Bard,Leeds United,Defence,26.0,10.0,21.71,117.08,11.71
+Tarik Muharemović,Leeds United,Defence,23.7,25.0,35.63,42.51,10.63
+Sean Longstaff,Leeds United,Midfield,29.0,15.0,12.52,-16.51,-2.48
+Ethan Ampadu,Leeds United,Midfield,26.1,30.0,43.46,44.87,13.46
+Ao Tanaka,Leeds United,Midfield,28.1,13.0,26.03,100.24,13.03
+Ilia Gruev,Leeds United,Midfield,26.5,12.0,17.34,44.5,5.34
+Daniel James,Leeds United,Offence,29.0,10.0,11.48,14.81,1.48
+Jean Bahoya,Leeds United,Offence,21.5,25.0,20.57,-17.73,-4.43
+Kjell Scherpen,Ipswich Town,Goalkeeper,26.8,8.0,7.76,-3.01,-0.24
+Issa Diop,Ipswich Town,Defence,29.8,8.0,4.84,-39.53,-3.16
+Jack Taylor,Ipswich Town,Midfield,28.3,3.0,4.99,66.19,1.99
+Exequiel Palacios,Ipswich Town,Midfield,28.1,25.0,16.64,-33.43,-8.36
+Saša Lukić,Ipswich Town,Midfield,30.2,10.0,6.05,-39.51,-3.95
+Florentino,Ipswich Town,Midfield,27.2,16.0,10.86,-32.1,-5.14
+Marcelino Núñez,Ipswich Town,Midfield,26.6,14.0,7.19,-48.62,-6.81
+Julio Enciso,Ipswich Town,Midfield,22.8,25.0,27.79,11.16,2.79
+Daizen Maeda,Ipswich Town,Offence,29.0,13.0,17.74,36.47,4.74
+Kasey McAteer,Ipswich Town,Offence,24.9,10.0,5.63,-43.66,-4.37
+Abdul Issahaku,Ipswich Town,Offence,22.6,20.0,6.64,-66.81,-13.36
+Sindre Egeli,Ipswich Town,Offence,20.3,0.25,13.2,5181.31,12.95
+John,Nottingham,Goalkeeper,30.7,5.0,3.54,-29.25,-1.46
+Matz Sels,Nottingham,Goalkeeper,34.7,3.5,6.61,88.91,3.11
+Steven Benda,Nottingham,Goalkeeper,28.1,1.0,3.72,271.92,2.72
+Nikola Milenković,Nottingham,Defence,29.0,28.0,35.21,25.74,7.21
+Ola Aina,Nottingham,Defence,30.0,18.0,12.87,-28.49,-5.13
+Neco Williams,Nottingham,Defence,25.5,28.0,42.46,51.66,14.46
+Luca Netz,Nottingham,Defence,23.4,8.0,19.61,145.07,11.61
+Nicolò Savona,Nottingham,Defence,23.6,15.0,19.88,32.5,4.88
+Murillo,Nottingham,Defence,24.3,50.0,21.69,-56.61,-28.31
+Ryan Yates,Nottingham,Midfield,28.9,7.0,13.04,86.34,6.04
+Ibrahim Sangaré,Nottingham,Midfield,28.9,20.0,32.57,62.83,12.57
+Xaver Schlager,Nottingham,Midfield,29.1,10.0,19.98,99.75,9.98
+Nicolás Domínguez,Nottingham,Midfield,28.3,15.0,19.74,31.58,4.74
+James McAtee,Nottingham,Midfield,24.0,18.0,23.45,30.29,5.45
+Arnaud Kalimuendo,Nottingham,Offence,24.8,25.0,26.16,4.63,1.16
+Dean Henderson,Crystal Palace,Goalkeeper,29.6,28.0,11.03,-60.61,-16.97
+Remi Matthews,Crystal Palace,Goalkeeper,32.7,0.2,0.1,-47.53,-0.1
+Walter Benítez,Crystal Palace,Goalkeeper,33.6,4.0,1.33,-66.84,-2.67
+Axel Disasi,Crystal Palace,Defence,28.6,15.0,12.37,-17.53,-2.63
+Takehiro Tomiyasu,Crystal Palace,Defence,28.0,5.0,10.93,118.69,5.93
+Chris Richards,Crystal Palace,Defence,26.6,28.0,27.37,-2.26,-0.63
+Óscar Mingueza,Crystal Palace,Defence,27.4,18.0,24.32,35.1,6.32
+Chadi Riad,Crystal Palace,Defence,23.4,15.0,15.44,2.95,0.44
+Jaydee Canvot,Crystal Palace,Defence,20.2,28.0,16.2,-42.16,-11.8
+Honest Ahanor,Crystal Palace,Defence,18.7,30.0,14.36,-52.13,-15.64
+Jefferson Lerma,Crystal Palace,Midfield,32.0,6.0,8.82,47.01,2.82
+Daichi Kamada,Crystal Palace,Midfield,30.2,10.0,14.57,45.73,4.57
+Will Hughes,Crystal Palace,Midfield,31.5,5.0,6.31,26.1,1.31
+Cheick Doucouré,Crystal Palace,Midfield,26.8,10.0,5.64,-43.56,-4.36
+Quinten Timber,Crystal Palace,Midfield,25.4,25.0,37.7,50.79,12.7
+Adam Wharton,Crystal Palace,Midfield,22.4,70.0,30.36,-56.63,-39.64
+Eddie Nketiah,Crystal Palace,Offence,27.4,10.0,10.69,6.88,0.69
+Dwight McNeil,Crystal Palace,Offence,26.9,18.0,14.62,-18.8,-3.38
+Evann Guessand,Crystal Palace,Offence,25.3,25.0,25.79,3.15,0.79
+Yeremi Pino,Crystal Palace,Offence,24.0,30.0,34.49,14.98,4.49
+Darío Osorio,Crystal Palace,Offence,22.7,15.0,37.22,148.1,22.22
+Zavier Gozo,Crystal Palace,Offence,19.6,6.0,4.96,-17.38,-1.04
+Jason Steele,Brighton Hove,Goalkeeper,36.2,0.5,0.65,29.27,0.15
+Bart Verbruggen,Brighton Hove,Goalkeeper,24.2,40.0,20.26,-49.34,-19.74
+Thomas McGill,Brighton Hove,Goalkeeper,26.6,0.5,2.57,413.8,2.07
+Olivier Boscagli,Brighton Hove,Defence,28.9,15.0,13.24,-11.71,-1.76
+Pascal Struijk,Brighton Hove,Defence,27.2,22.0,27.29,24.03,5.29
+Ferdi Kadıoğlu,Brighton Hove,Defence,27.0,35.0,33.06,-5.53,-1.94
+Mats Wieffer,Brighton Hove,Defence,26.9,25.0,21.46,-14.16,-3.54
+Costinha,Brighton Hove,Defence,26.6,7.0,18.79,168.39,11.79
+Matt O'Riley,Brighton Hove,Midfield,25.9,18.0,18.65,3.62,0.65
+Georginio Rutter,Brighton Hove,Offence,24.5,30.0,23.28,-22.4,-6.72
+Evan Ferguson,Brighton Hove,Offence,22.0,20.0,24.75,23.73,4.75
+Kaoru Mitoma,Brighton Hove,Offence,29.4,22.0,13.42,-39.01,-8.58
+Yankubah Minteh,Brighton Hove,Offence,22.3,45.0,27.42,-39.06,-17.58
+Ibrahim Osman,Brighton Hove,Offence,21.9,7.0,13.82,97.4,6.82
+Stefanos Tzimas,Brighton Hove,Offence,20.8,18.0,15.26,-15.2,-2.74
+Zadok Yohanna,Brighton Hove,Offence,19.3,0.5,6.74,1247.74,6.24
+Ellery Balcombe,Brentford,Goalkeeper,27.0,0.4,2.45,511.48,2.05
+Caoimhin Kelleher,Brentford,Goalkeeper,27.9,28.0,19.24,-31.27,-8.76
+Hákon Rafn Valdimarsson,Brentford,Goalkeeper,25.0,2.5,7.66,206.35,5.16
+Rico Henry,Brentford,Defence,29.3,13.0,8.45,-34.98,-4.55
+Sepp van den Berg,Brentford,Defence,24.8,32.0,27.02,-15.56,-4.98
+Kristoffer Ajer,Brentford,Defence,28.5,18.0,24.26,34.78,6.26
+Aaron Hickey,Brentford,Defence,24.8,16.0,16.01,0.06,0.01
+Nathan Collins,Brentford,Defence,25.5,30.0,31.04,3.48,1.04
+El Hadji Malick Diouf,Brentford,Defence,21.8,28.0,34.62,23.64,6.62
+Ji-soo Kim,Brentford,Defence,21.8,1.8,7.88,338.04,6.08
+Jannik Schuster,Brentford,Defence,20.4,18.0,13.3,-26.09,-4.7
+Benjamin Fredrick,Brentford,Defence,21.4,0.6,15.67,2511.78,15.07
+Josh Dasilva,Brentford,Midfield,28.0,1.5,6.12,308.13,4.62
+Mathias Jensen,Brentford,Midfield,30.8,10.0,13.24,32.35,3.24
+Mamadou Sangare,Brentford,Midfield,24.3,40.0,31.53,-21.18,-8.47
+Antoni Milambo,Brentford,Midfield,21.6,15.0,12.86,-14.25,-2.14
+Kaye Furo,Brentford,Offence,19.7,8.0,15.81,97.63,7.81
+Fraser Forster,Bournemouth,Goalkeeper,38.6,0.4,-0.5,-225.16,-0.9
+Michele Di Gregorio,Bournemouth,Goalkeeper,29.2,10.0,10.22,2.2,0.22
+Đorđe Petrović,Bournemouth,Goalkeeper,27.0,28.0,16.46,-41.23,-11.54
+Adam Smith,Bournemouth,Defence,35.5,0.3,1.21,301.92,0.91
+Max Aarons,Bournemouth,Defence,26.8,2.5,15.71,528.51,13.21
+James Hill,Bournemouth,Defence,24.8,23.0,17.72,-22.95,-5.28
+Bafodé Diakité,Bournemouth,Defence,25.8,25.0,14.83,-40.7,-10.17
+Julian Araujo,Bournemouth,Defence,25.2,8.0,14.77,84.65,6.77
+Adrien Truffert,Bournemouth,Defence,24.9,30.0,28.94,-3.54,-1.06
+Juanlu,Bournemouth,Defence,23.2,10.0,20.28,102.76,10.28
+Julio Soler,Bournemouth,Defence,21.7,8.0,10.19,27.41,2.19
+Antonio Silva,Bournemouth,Defence,23.0,25.0,18.57,-25.72,-6.43
+Veljko Milosavljević,Bournemouth,Defence,19.3,20.0,12.31,-38.44,-7.69
+Lewis Cook,Bournemouth,Midfield,29.7,11.0,6.78,-38.38,-4.22
+Ryan Christie,Bournemouth,Midfield,31.7,8.0,8.01,0.18,0.01
+Tyler Adams,Bournemouth,Midfield,27.7,25.0,23.08,-7.67,-1.92
+Alex Toth,Bournemouth,Midfield,21.0,12.0,20.89,74.07,8.89
+David Brooks,Bournemouth,Offence,29.3,12.0,13.43,11.89,1.43
+Amine Adli,Bournemouth,Offence,26.5,20.0,19.55,-2.26,-0.45
+Daniel Jebbison,Bournemouth,Offence,23.3,6.0,6.93,15.5,0.93
+Ben Doak,Bournemouth,Offence,21.0,15.0,14.69,-2.06,-0.31
+Alvaro Rodriguez,Bournemouth,Offence,22.3,10.0,27.9,178.95,17.9
+Daniel Bentley,Coventry City,Goalkeeper,33.3,0.8,0.42,-47.11,-0.38
+Carl Rushworth,Coventry City,Goalkeeper,25.3,16.0,0.41,-97.45,-15.59
+Ethan Pinnock,Coventry City,Defence,33.4,3.0,1.26,-57.84,-1.74
+Joel Latibeaudiere,Coventry City,Defence,26.8,3.0,5.54,84.72,2.54
+Aurele Amenda,Coventry City,Defence,23.2,10.0,12.1,20.96,2.1
+Frank Onyeka,Coventry City,Midfield,28.8,8.0,9.18,14.76,1.18
+Caleb Yirenkyi,Coventry City,Midfield,20.8,10.0,20.57,105.73,10.57
+Haji Wright,Coventry City,Offence,28.6,16.0,4.96,-68.97,-11.04
+Yann Gboho,Coventry City,Offence,25.8,18.0,14.25,-20.85,-3.75
+Loum Tchaouna,Coventry City,Offence,23.1,13.0,12.81,-1.5,-0.19
+Sidiki Cherif,Coventry City,Offence,19.9,18.0,12.76,-29.14,-5.24
