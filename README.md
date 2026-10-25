@@ -6,6 +6,8 @@ Built with Python, pandas and scikit-learn. Data comes from the football-data.or
 
 ![Predicted vs actual market value](reports/pred_vs_actual.png)
 
+   ![Streamlit app](docs/app.png)
+
 ## Results
 
 <!-- RESULTS:START -->
